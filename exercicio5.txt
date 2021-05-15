@@ -1,0 +1,23 @@
+Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+
+Pego a embalagem com todas as provas;
+Pego a folha resposta para conferir;
+Pego a caneta;
+Retiro todas as provas da embalagem;
+Pego uma prova;
+Corrigir questão 1;
+Corrigir questão 2;
+Corrigir questão 3;
+Corrigir questão 4;
+Corrigir questão 5;
+Coloco a nota final;
+Colocar a prova corrigida em uma pasta;
+Enquanto ainda houver prova para corrigir, faça:
+Pego uma nova prova;
+Corrigir questão 1;
+Corrigir questão 2;
+Corrigir questão 3;
+Corrigir questão 4;
+Corrigir questão 5;
+Coloco a nota final;
+Colocar a prova corrigida em uma pasta;
