@@ -1,0 +1,8 @@
+Faça um algoritmo que some três números.
+
+Digitar o primeiro número;
+Colocar o comando de somar adequado;
+Digitar o segundo número;
+Colocar o comando de somar novamente;
+Digitar o terceiro número;
+Colocar o comando de resultado;
