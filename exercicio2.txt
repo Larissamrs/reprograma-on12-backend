@@ -1,0 +1,19 @@
+Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
+
+Pegar esponja;
+Pegar detergente;
+	Se a esponja estiver úmida:
+		Aplicar detergente na esponja;
+	Se não:
+		Abrir torneira;
+		Colocar esponja na água;
+		Tirar da água;
+		Fechar torneira;
+		Colocar detergente;
+Pegar o prato sujo;
+Colocar na água;
+Retirar da água;
+Esfregar a esponja de forma circular até retirar toda sujeira;
+Colocar o prato novamente na água até retirar todo detergente;
+Desligar torneira;
+Colocar no escorredor;
