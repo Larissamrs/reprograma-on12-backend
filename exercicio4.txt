@@ -1,0 +1,19 @@
+Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+
+Entrar no banco da sua conta;
+Entro na fila para aguardar minha vez;
+Se não tiver fila, então:
+Caminho até o caixa vazio;
+Clico na tela na opção serviço sem cartão com biometria;
+Posiciono a mão no local corretamente;
+Aguardo completar a leitura da biometria;
+Escolho a opção saque da respectiva conta;
+Digito o valor a ser sacado;
+Aperto em entra;
+Escolho a combinação de notas para saque;
+Aperto entra;
+Posiciono a mão para leitura biométrica;
+Aguardo completar a leitura;
+Pego o dinheiro;
+Aguardo a mensagem de operação finalizada;
+
