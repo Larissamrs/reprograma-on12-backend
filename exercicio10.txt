@@ -1,0 +1,5 @@
+Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+
+Inserir salário atual;
+Se o salário for menor ou igual a 500, então acrescenta 20% do salário atual;
+Se o salário for maior que 500, então acrescenta 10% do salário atual;
