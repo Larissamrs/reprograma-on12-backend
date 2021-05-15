@@ -1,0 +1,6 @@
+Faça um algoritmo que descubra se um número é par ou ímpar.
+
+Inserir o número;
+Dividir número por 2;
+Se o resultado for um número inteiro, então é par;
+Se o resultado for um número com casa decimal, então é ímpar;
