@@ -1,0 +1,5 @@
+Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+
+Aguardar a ordem dada;
+Se a ordem for igual a morto, ficar agachado;
+Se a ordem for igual a vivo, ficar de pé;
