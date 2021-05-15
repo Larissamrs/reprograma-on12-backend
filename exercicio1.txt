@@ -1,0 +1,25 @@
+Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada.
+
+Desligar o interruptor;
+Pegar uma escada;
+Coloque uma escada embaixo da lâmpada;
+Buscar uma lâmpada nova da mesma potência/voltagem;
+Subir a escada até alcançar a lâmpada queimada;
+Gire a lâmpada queimada no sentido anti-horário até que ela solte;
+posicione a lâmpada nova no soquete;
+Gire a lâmpada nova no sentido horário até encaixar e ficar firme;
+Desça da escada;
+Ligue o interruptor;
+Se a lâmpada acender – FIM;
+ Se a lâmpada não acender, então:
+Buscar uma lâmpada nova da mesma potência/voltagem;
+Subir a escada até alcançar a lâmpada queimada;
+Gire a lâmpada queimada no sentido anti-horário até que ela solte;
+posicione a lâmpada nova no soquete;
+Gire a lâmpada nova no sentido horário até encaixar e ficar firme;
+Desça da escada;
+Ligue o interruptor;
+Enquanto a lâmpada não acender, faça
+Retire a lâmpada;
+Colocar nova lâmpada;
+
